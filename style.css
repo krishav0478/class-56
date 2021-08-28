@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+h1,h2{
+    color:aqua;
+}
+#image1 {
+    border: 6px dashed black;
+}
